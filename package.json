@@ -1,7 +1,7 @@
 {
-  "name": "node-ts-template",
-  "version": "0.0.1",
-  "description": "This is a typescript library project template.",
+  "name": "ginkgoch-filestream",
+  "version": "1.0.0",
+  "description": "This is filestream for node.",
   "main": "dist/bundle.js",
   "types": "dist/index.d.ts",
   "author": "Ginkgoch",
